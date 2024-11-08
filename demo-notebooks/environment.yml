@@ -1,0 +1,5 @@
+name: notebook
+dependencies:
+  - jupyter
+  - imageio
+  - matplotlib
