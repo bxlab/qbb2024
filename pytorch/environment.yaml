@@ -1,0 +1,9 @@
+name:
+    pytorch
+dependencies:
+    - pytorch
+    - torchvision
+    - torchinfo
+    - matplotlib
+    - scipy
+    - jupyter
